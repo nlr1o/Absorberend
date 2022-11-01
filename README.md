@@ -1,5 +1,4 @@
 #### Welcome to my GitHub!
-![Welcome to my GitHub!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Skills: REACT / JS / HTML / CSS
 
