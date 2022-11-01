@@ -2,7 +2,7 @@
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on finishing my studies at the LOI.
+- 🔭 I’m currently working on finishing my HBO Frontend Developer studies at the LOI in the Netherlands.
 - 🌱 I’m currently learning PHP/SQL.
 - 👨‍💻 My portfolio is available at https://bvantwout.com/
 - 📫 How to reach me:  You can find my contact information on my portfolio page as well. 
